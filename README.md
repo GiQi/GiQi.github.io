@@ -10,6 +10,55 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+1.
+website:
+
+82190555.com||85105052.com
+js:
+
+css:
+
+#_nobody + div,#_nobody + div + script + script + div,#_nobody + div + script + script + script + div{
+	display:none !important;
+}
+2.
+website:
+
+baiyug.cn
+js:
+
+//document.querySelector('#baiyug').contentWindow.document.querySelector('#baiyug').contentWindow.document.querySelector('iframe').src
+css:
+
+//z-index
+3.
+website:
+
+odflv.com
+js:
+
+//document.querySelector("#iframepage").contentWindow.document.querySelector("video").src
+css:
+
+4.
+website:
+
+sonimei.cn
+js:
+
+css:
+
+a{display:none !important;}
+5.
+website:
+
+odflv.com
+js:
+
+document.querySelector("iframe").contentWindow.document.querySelector("video").src
+css:
+
+a{display:none !important;}
 
 # Header 1
 ## Header 2
